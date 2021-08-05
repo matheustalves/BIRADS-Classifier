@@ -10,6 +10,6 @@ This BIRADS Classifier with GUI was made using Python and image processing, mach
 * Image Processing (Crop, Quantization, Equalization)
 * Classifier Parameters Selector
 
-![Screenshot](static/screenshot.png)
+![Screenshot](/static/screenshot.PNG)
 
 This project was a image processing computer science assignment. All repository content/files are for educational purposes only.
