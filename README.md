@@ -1,5 +1,5 @@
 # Breast Imaging Reporting & Data System (BIRADS)
-###### This project was a image processing computer science assignment. All repository content/files are for educational purposes only.
+###### This project was an image processing computer science assignment. All repository content/files are for educational purposes only.
 
 _The Breast Imaging Report and Data System (BIRADS) of the American College of Radiology (ACR) is today largely used in most of the countries where breast cancer screening is implemented. It is a tool defined to reduce variability between radiologists when creating the reports in mammography, ultrasonography or MRI._
 
