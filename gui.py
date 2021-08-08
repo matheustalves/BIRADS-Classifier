@@ -1,10 +1,3 @@
-'''
-    Trabalho Prático de Processamento de Imagens
-
-    Alunos: Lucas Guimarães Campregher
-            Matheus Teixeira Alves
-'''
-
 import tkinter as tk
 import math
 from tkinter.filedialog import askopenfilename
